@@ -1,0 +1,21 @@
+name: SkyFallPE
+main: PrinxIsLeqit\SkyFall\LightFall
+author: PrinxIsLeqit
+
+version: 2.0.0
+api: 3.0.0-ALPHA11
+     3.0.0-ALPHA12
+load: POSTWORLD
+commands:
+    lf:
+        usage: /lf <leave-make>
+        description: LightFall-Commands
+    lang:
+        usage: /lang <en>
+        description: LightFall-English-Lang
+    ranklf:
+        usage: /rankslf
+        description: LightFall-Commands
+    lfstart:
+        usage: /lfstart
+        description: LightFall-Force start
